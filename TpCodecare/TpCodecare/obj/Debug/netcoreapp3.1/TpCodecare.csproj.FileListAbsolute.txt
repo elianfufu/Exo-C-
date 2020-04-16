@@ -1,0 +1,13 @@
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\bin\Debug\netcoreapp3.1\TpCodecare.exe
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\bin\Debug\netcoreapp3.1\TpCodecare.deps.json
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\bin\Debug\netcoreapp3.1\TpCodecare.runtimeconfig.json
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\bin\Debug\netcoreapp3.1\TpCodecare.runtimeconfig.dev.json
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\bin\Debug\netcoreapp3.1\TpCodecare.dll
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\bin\Debug\netcoreapp3.1\TpCodecare.pdb
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\obj\Debug\netcoreapp3.1\TpCodecare.csprojAssemblyReference.cache
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\obj\Debug\netcoreapp3.1\TpCodecare.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\obj\Debug\netcoreapp3.1\TpCodecare.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\obj\Debug\netcoreapp3.1\TpCodecare.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\obj\Debug\netcoreapp3.1\TpCodecare.dll
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\obj\Debug\netcoreapp3.1\TpCodecare.pdb
+C:\Users\elian\OneDrive\Documents\CV\TpCodecare\TpCodecare\obj\Debug\netcoreapp3.1\TpCodecare.genruntimeconfig.cache
